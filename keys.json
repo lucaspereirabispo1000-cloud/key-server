@@ -1,7 +1,8 @@
 {
-  "ABC123": { "used": false, "hwid": null },
-  "TESTE999": { "used": false, "hwid": null },
-  "VIP2026": { "used": false, "hwid": null },
-  "CLIENTE01": { "used": false, "hwid": null }
+  "ABC123": { "activated": false, "hwid": null },
+  "TESTE999": { "activated": false, "hwid": null },
+  "VIP2016": { "activated": false, "hwid": null },
+  "CLIENTE01": { "activated": false, "hwid": null }
 }
+
 
