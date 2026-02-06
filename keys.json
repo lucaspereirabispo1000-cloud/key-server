@@ -1,4 +1,7 @@
-[
-  { "key": "VIP-001-ABC", "hwid": null },
-  { "key": "VIP-002-ABC", "hwid": null }
-]
+{
+  "ABC123": { "used": false, "hwid": null },
+  "TESTE999": { "used": false, "hwid": null },
+  "VIP2026": { "used": false, "hwid": null },
+  "CLIENTE01": { "used": false, "hwid": null }
+}
+
